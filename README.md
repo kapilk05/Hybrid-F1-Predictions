@@ -29,4 +29,3 @@ This project predicts the probability of F1 drivers winning specific races using
 
 ![3D Graph](img2.png)
 
-
