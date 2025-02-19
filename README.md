@@ -1,3 +1,5 @@
+
+deployed at - https://hybrid-f1-predictions.streamlit.app/
 # F1 Race Predictor
 This project predicts the probability of F1 drivers winning specific races using a combination of traditional machine learning models and Graph Neural Networks (GNNs). It also features interactive 3D visualizations to explore race relationships, driver performance, and constructor data.
 
